@@ -1,0 +1,10 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    },
+    "AllowedHosts": "*",
+    "OpenWeatherAPIKey": "d01bd9e0ce811d20257a76b4c33ea1f4"
+}
